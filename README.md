@@ -13,7 +13,7 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/alejandrodlrocha/reactvitetailwind/main/preview.png" alt="Preview" width="600" />
+
 
 </div>
 
