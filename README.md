@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ ReactViteTailwind.com
+# ⚡ Tailwind-React.com
 
 **One script. Zero config. Start building in seconds.**
 
@@ -9,7 +9,7 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 
-[Website](https://reactvitetailwind.com) · [Report Bug](https://github.com/alejandrodlrocha/reactvitetailwind/issues) · [Request Feature](https://github.com/alejandrodlrocha/reactvitetailwind/issues)
+[Website](https://Tailwind-React.com) · [Report Bug](https://github.com/alejandrodlrocha/Tailwind-React/issues) · [Request Feature](https://github.com/alejandrodlrocha/Tailwind-React/issues)
 
 ---
 
@@ -35,14 +35,14 @@ Setting up React + Vite + Tailwind manually means:
 ### macOS / Linux
 
 ```bash
-curl -fsSL https://reactvitetailwind.com/setup.sh | bash
+curl -fsSL https://Tailwind-React.com/setup.sh | bash
 ```
 
 Or download and run manually:
 
 ```bash
 # Download
-curl -O https://reactvitetailwind.com/setup.sh
+curl -O https://Tailwind-React.com/setup.sh
 
 # Make executable
 chmod +x setup.sh
@@ -54,14 +54,14 @@ chmod +x setup.sh
 ### Windows (PowerShell)
 
 ```powershell
-irm https://reactvitetailwind.com/setup.ps1 | iex
+irm https://Tailwind-React.com/setup.ps1 | iex
 ```
 
 Or download and run manually:
 
 ```powershell
 # Download
-Invoke-WebRequest -Uri https://reactvitetailwind.com/setup.ps1 -OutFile setup.ps1
+Invoke-WebRequest -Uri https://Tailwind-React.com/setup.ps1 -OutFile setup.ps1
 
 # Run
 .\setup.ps1
@@ -230,6 +230,6 @@ MIT © [Alejandro de la Rocha](https://nolti.io)
 
 **Built by a developer who got tired of copying config files.**
 
-[⬆ Back to top](#-reactvitetailwindcom)
+[⬆ Back to top](#-Tailwind-Reactcom)
 
 </div>
